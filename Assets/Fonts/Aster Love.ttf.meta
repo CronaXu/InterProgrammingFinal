@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 45aa9de815f034bf487f1e56c7e555ed
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Aster Love
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 511010d663b724aaca09acd1dbb64bb3, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
